@@ -1,0 +1,847 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.page-brand {
+  font-family: Helvetica;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(255, 255, 254);
+}
+
+.page-model-layout,
+.page-ue {
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.btn {
+  display: block;
+  float: left;
+  clear: both;
+  width: 100%;
+  text-align: center;
+}
+
+.container ._container,
+.container .select-model {
+  width: 100%;
+}
+
+.ctm .ctm {
+  position: absolute;
+  top: 228px;
+  left: -0.96%;
+  z-index: 4;
+  width: 100%;
+  height: 22px;
+  border-radius: 3px;
+  background-image: url('../images/United%20States%20of%20America%20(USA).png');
+  background-size: auto auto;
+  background-position: left center;
+  background-color: rgba(0, 0, 0, 0.51);
+  box-shadow: -5px -2px 40px rgba(0, 0, 0, .5) inset;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 254);
+}
+
+.cw,
+.westone {
+  background-repeat: no-repeat;
+}
+
+.cw .cw {
+  position: absolute;
+  top: 229px;
+  left: -0.4479166667%;
+  z-index: 2;
+  width: 100%;
+  height: 22px;
+  border-radius: 3px;
+  background-image: url('../images/Japan(2).png');
+  background-size: auto auto;
+  background-position: left center;
+  background-color: rgba(0, 0, 0, 0.51);
+  box-shadow: -5px -2px 40px rgba(0, 0, 0, .5) inset;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(253, 253, 253);
+}
+
+.fitear {
+  background-repeat: no-repeat;
+}
+
+.fitear .fitear {
+  position: absolute;
+  top: 228px;
+  left: 0;
+  z-index: 14;
+  width: 100%;
+  height: 22px;
+  border-radius: 3px;
+  background-image: url('../images/Japan(3).png');
+  background-size: auto auto;
+  background-position: left center;
+  background-color: rgba(255, 255, 255, 0.21);
+  box-shadow: -5px -2px 40px rgba(0, 0, 0, .5) inset;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 254);
+}
+
+.image {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.inear .inear {
+  position: absolute;
+  top: 227px;
+  left: 0;
+  z-index: 6;
+  width: 100%;
+  height: 22px;
+  border-radius: 3px;
+  background-image: url('../images/Germany(2).png');
+  background-size: auto auto;
+  background-position: left center;
+  background-color: rgba(255, 255, 255, 0.21);
+  box-shadow: -5px -2px 40px rgba(0, 0, 0, .5) inset;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(212, 212, 207);
+}
+
+.input-field {
+  width: 100%;
+  height: 50px;
+  margin: 0 auto;
+  background-color: rgb(0, 0, 0);
+  overflow: visible;
+}
+
+.jh .jh {
+  position: absolute;
+  top: 228px;
+  left: 0.2720833333%;
+  z-index: 10;
+  width: 100%;
+  height: 22px;
+  border-radius: 3px;
+  background-image: url('../images/United%20States%20of%20America%20(USA).png');
+  background-size: auto auto;
+  background-position: left center;
+  background-color: rgba(0, 0, 0, 0.21);
+  box-shadow: -5px -2px 40px rgba(0, 0, 0, .5) inset;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 254);
+}
+
+.jmpluslogo {
+  width: 100%;
+  height: 68px;
+  margin: 0 auto;
+  background-image: url('../images/logo1.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left center;
+}
+
+.material-icons {
+  width: 100%;
+  min-height: 37px;
+  margin: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+}
+
+.nav {
+  width: 70%;
+  height: 70px;
+  margin: 0 auto;
+}
+
+.ctm,
+.inear,
+.jh,
+.noble,
+.ue {
+  background-repeat: no-repeat;
+}
+
+.noble .noble {
+  position: absolute;
+  top: 228px;
+  left: -0.864375%;
+  width: 100%;
+  height: 22px;
+  border-radius: 3px;
+  background-image: url('../images/United%20States%20of%20America%20(USA).png');
+  background-size: auto auto;
+  background-position: left center;
+  background-color: rgba(255, 255, 255, 0.21);
+  box-shadow: -5px -2px 40px rgba(0, 0, 0, .5) inset;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 254);
+}
+
+.selbrand {
+  position: relative;
+  width: 70%;
+  min-height: 500px;
+  margin: 20px auto 0;
+  padding-bottom: 30px;
+  overflow: visible;
+}
+
+._container,
+.select-model {
+  margin: 20px auto 0;
+}
+
+.text {
+  width: 100%;
+  margin: 20px auto 0;
+  font-size: 1em;
+  text-align: justify;
+  color: rgb(0, 0, 0);
+}
+
+.text p {
+  margin-bottom: 1em;
+}
+
+.ue .ue {
+  position: absolute;
+  top: 228px;
+  left: 0.6404166666%;
+  z-index: 12;
+  width: 100%;
+  height: 22px;
+  border-radius: 3px;
+  background-image: url('../images/United%20States%20of%20America%20(USA).png');
+  background-size: auto auto;
+  background-position: left center;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: -5px -2px 40px rgba(0, 0, 0, .5) inset;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 254);
+}
+
+.westone .westone {
+  position: absolute;
+  top: 228px;
+  left: 0.1354166666%;
+  z-index: 8;
+  width: 100%;
+  height: 22px;
+  border-radius: 3px;
+  background-image: url('../images/United%20States%20of%20America%20(USA).png');
+  background-size: auto auto;
+  background-position: left center;
+  background-color: rgba(255, 255, 255, 0.4);
+  box-shadow: -5px -2px 40px rgba(0, 0, 0, .5) inset;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 254);
+}
+
+.container-1,
+.container-2 {
+  width: 50%;
+}
+
+.ctm-1 {
+  position: relative;
+  float: left;
+  z-index: 5;
+  width: 32%;
+  min-width: 250px;
+  height: 250px;
+  min-height: 150px;
+  margin: 10px 0 0 1.99963%;
+  background-image: url('../images/ctm_brand.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-color: rgb(222, 222, 222);
+  overflow: hidden;
+}
+
+.cw-1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 3;
+  width: 32%;
+  min-width: 150px;
+  height: 250px;
+  min-height: 150px;
+  margin-top: 10px;
+  background-image: url('../images/cw_brand.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-color: rgb(73, 73, 73);
+  overflow: hidden;
+}
+
+.fitear-1 {
+  position: relative;
+  float: left;
+  z-index: 15;
+  width: 32%;
+  min-width: 150px;
+  height: 250px;
+  min-height: 150px;
+  margin-top: 10px;
+  background-image: url('../images/fitear_brand.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-color: rgba(73, 73, 73, 0);
+  overflow: hidden;
+}
+
+.image-1,
+.image-2 {
+  width: 40%;
+  margin-top: 43px;
+}
+
+.image-3,
+.image-4 {
+  width: 60%;
+}
+
+.inear-1 {
+  position: relative;
+  float: left;
+  z-index: 7;
+  width: 32%;
+  min-width: 150px;
+  height: 250px;
+  min-height: 150px;
+  margin: 10px 0 0 1.99963%;
+  background-image: url('../images/inear_brand.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-color: rgb(73, 73, 73);
+  overflow: hidden;
+}
+
+.jh-1 {
+  position: relative;
+  float: left;
+  z-index: 11;
+  width: 32%;
+  min-width: 150px;
+  height: 250px;
+  min-height: 150px;
+  margin: 10px 0 0 1.99963%;
+  background-image: url('../images/jh_brand.png');
+  background-size: cover;
+  background-position: center center;
+  background-color: rgb(222, 222, 222);
+  overflow: hidden;
+}
+
+.jmpluslogo-2,
+.jmpluslogo-3,
+.jmpluslogo-4,
+.jmpluslogo-5 {
+  min-width: none;
+  min-height: nonepx;
+  background-color: rgba(0, 0, 0, 0);
+  -webkit-transform: none;
+  -moz-transform: none;
+  -o-transform: none;
+  -ms-transform: none;
+  transform: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  -ms-transition: none;
+  transition: none;
+  -webkit-filter: none;
+  -moz-filter: none;
+  -o-filter: none;
+  -ms-filter: none;
+  filter: none;
+}
+
+.material-icons-2,
+.material-icons-4 {
+  font-weight: 400;
+}
+
+.nav-2,
+.nav-3,
+.nav-4,
+.nav-5 {
+  min-width: none;
+  min-height: nonepx;
+  background-color: rgba(0, 0, 0, 0);
+  -webkit-transform: none;
+  -moz-transform: none;
+  -o-transform: none;
+  -ms-transform: none;
+  transform: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  -ms-transition: none;
+  transition: none;
+  -webkit-filter: none;
+  -moz-filter: none;
+  -o-filter: none;
+  -ms-filter: none;
+  filter: none;
+}
+
+.noble-1 {
+  position: relative;
+  float: left;
+  z-index: 1;
+  width: 32%;
+  min-width: 150px;
+  height: 250px;
+  min-height: 150px;
+  margin: 10px 0 0 1.99963%;
+  background-image: url('../images/noble_brand.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-color: rgb(222, 222, 222);
+  overflow: hidden;
+}
+
+.select-model-2,
+.select-model-4 {
+  width: 38.3658854166%;
+}
+
+.ue-1 {
+  position: relative;
+  float: left;
+  z-index: 13;
+  width: 32%;
+  min-width: 150px;
+  height: 250px;
+  min-height: 150px;
+  margin: 10px 0 0 1.99963%;
+  background-image: url('../images/ue_brand.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-color: rgb(222, 222, 222);
+  overflow: hidden;
+}
+
+.westone-1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 9;
+  width: 32%;
+  min-width: 150px;
+  height: 250px;
+  min-height: 150px;
+  margin-top: 10px;
+  background-image: url('../images/westone_brand.jpg');
+  background-size: cover;
+  background-position: left top;
+  background-color: rgb(73, 73, 73);
+  overflow: hidden;
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: Helvetica;
+  font-style: normal;
+  font-size: inherit;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(255, 255, 255);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: Helvetica;
+  font-style: normal;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(255, 255, 255);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 1024px) {
+  body {
+    font-size: 1em;
+  }
+
+  .selbrand .ctm-1 {
+    position: relative;
+    z-index: 5;
+    min-width: 150px;
+    margin-left: 1.99891%;
+  }
+
+  .selbrand .cw-1 {
+    position: relative;
+    z-index: 3;
+  }
+
+  .selbrand .fitear-1 {
+    position: relative;
+    z-index: 15;
+  }
+
+  .selbrand .inear-1 {
+    position: relative;
+    z-index: 7;
+    margin-left: 1.99891%;
+  }
+
+  .selbrand .jh-1 {
+    position: relative;
+    z-index: 11;
+    margin-left: 1.99891%;
+  }
+
+  .selbrand .noble-1 {
+    position: relative;
+    z-index: 1;
+    margin-left: 1.99891%;
+  }
+
+  .selbrand .ue-1 {
+    position: relative;
+    z-index: 13;
+    margin-left: 1.99891%;
+  }
+
+  .selbrand .westone-1 {
+    position: relative;
+    z-index: 9;
+  }
+}
+
+@media(max-width: 960px) {
+  body {
+    font-size: 1em;
+  }
+
+  .ctm .ctm,
+  .jh .jh {
+    left: -0.1185199668%;
+  }
+
+  .cw .cw {
+    top: 228px;
+    left: 0;
+  }
+
+  .inear .inear {
+    top: 228px;
+  }
+
+  .noble .noble {
+    left: -0.1894129723%;
+  }
+
+  .selbrand {
+    width: 80%;
+    min-height: 100px;
+    margin-top: 90px;
+  }
+
+  .ue .ue {
+    left: 0.2798181729%;
+  }
+
+  .nav .jmpluslogo-1 {
+    float: left;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .nav-1 {
+    float: left;
+    width: 80%;
+    margin-right: 0;
+    margin-left: 10%;
+  }
+
+  .selbrand .ctm-1 {
+    position: relative;
+    z-index: 5;
+    width: 49%;
+    margin-left: 1.99585%;
+  }
+
+  .selbrand .cw-1 {
+    position: relative;
+    z-index: 3;
+    width: 49%;
+  }
+
+  .selbrand .fitear-1 {
+    position: relative;
+    z-index: 15;
+    width: 49%;
+  }
+
+  .selbrand .inear-1 {
+    position: relative;
+    clear: both;
+    z-index: 7;
+    width: 49%;
+    margin-left: 0;
+  }
+
+  .selbrand .jh-1 {
+    position: relative;
+    clear: both;
+    z-index: 11;
+    width: 49%;
+    margin-left: 0;
+  }
+
+  .selbrand .noble-1 {
+    position: relative;
+    z-index: 1;
+    width: 49%;
+    margin-left: 1.99585%;
+  }
+
+  .selbrand .ue-1 {
+    position: relative;
+    z-index: 13;
+    width: 49%;
+    margin-left: 1.99585%;
+  }
+
+  .selbrand .westone-1 {
+    position: relative;
+    clear: none;
+    z-index: 9;
+    width: 49%;
+    margin-left: 1.99992%;
+  }
+}
+
+@media(max-width: 768px) {
+  body {
+    font-size: 1em;
+  }
+
+  .ctm .ctm,
+  .ue .ue {
+    left: -0.0610351563%;
+  }
+
+  .noble .noble {
+    left: 1.328828125%;
+  }
+
+  .selbrand {
+    width: 90%;
+    min-height: 0;
+    margin-top: 20px;
+  }
+
+  .westone .westone {
+    left: 0.2075195312%;
+  }
+
+  .nav-1 {
+    float: none;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .selbrand .ctm-1 {
+    position: relative;
+    z-index: 5;
+    margin-left: 1.98933%;
+  }
+
+  .selbrand .cw-1 {
+    position: relative;
+    z-index: 3;
+  }
+
+  .selbrand .fitear-1 {
+    position: relative;
+    z-index: 15;
+  }
+
+  .selbrand .inear-1 {
+    position: relative;
+    z-index: 7;
+  }
+
+  .selbrand .jh-1 {
+    position: relative;
+    z-index: 11;
+  }
+
+  .selbrand .noble-1 {
+    position: relative;
+    z-index: 1;
+    margin-left: 1.98933%;
+  }
+
+  .selbrand .ue-1 {
+    position: relative;
+    z-index: 13;
+    margin-left: 1.98933%;
+  }
+
+  .selbrand .westone-1 {
+    position: relative;
+    z-index: 9;
+    margin-left: 1.98933%;
+  }
+}
+
+@media(max-width: 480px) {
+  body {
+    font-size: 1em;
+  }
+
+  .selbrand {
+    width: 100%;
+    min-height: nonepx;
+    margin-top: 10px;
+  }
+
+  .nav .jmpluslogo-1 {
+    width: 70.8839699074%;
+    margin-left: 14.55404%;
+  }
+
+  .nav-1 {
+    width: 100%;
+  }
+
+  .selbrand .ctm-1 {
+    position: relative;
+    float: none;
+    z-index: 5;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .selbrand .cw-1 {
+    position: relative;
+    float: none;
+    clear: none;
+    z-index: 3;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .selbrand .fitear-1 {
+    position: relative;
+    float: none;
+    z-index: 15;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .selbrand .inear-1 {
+    position: relative;
+    float: none;
+    clear: none;
+    z-index: 7;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .selbrand .jh-1 {
+    position: relative;
+    float: none;
+    clear: none;
+    z-index: 11;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .selbrand .noble-1 {
+    position: relative;
+    float: none;
+    z-index: 1;
+    width: 95%;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .selbrand .ue-1 {
+    position: relative;
+    float: none;
+    z-index: 13;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .selbrand .westone-1 {
+    position: relative;
+    float: none;
+    z-index: 9;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
